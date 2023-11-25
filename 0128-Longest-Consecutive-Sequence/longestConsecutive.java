@@ -16,6 +16,16 @@ class longestConsecutive{
 
     // Time Complexity: O(n^2)
     // Space Complexity: O(n)
+    /*
+        Logic:
+        1. We will create a set of numbers.
+        2. We will iterate over the array and add all the numbers to the set.
+        3. We will iterate over the array again and check if the current number is the starting number of a sequence.
+        4. If the current number is the starting number of a sequence, we will check if the next number is present in the set. If the next number is present in the set, we will increment the current sequence length.
+        5. If the current number is not the starting number of a sequence, we will continue to the next number.
+        6. We will update the max sequence length at the end of each iteration.
+        7. We will return the max sequence length.
+     */
     private static int longestConsecutiveOptimal(int[] nums){
         Set<Integer> set = new HashSet<>();
         int maxSeq = 0;
