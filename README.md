@@ -12,6 +12,6 @@ This repository contains my solutions to LeetCode problems. I have solved these 
 ## Blind 75:
 | Problem Link                                                                             | Solution                                                     | Topic             | Difficulty | Date Solved |  
 |------------------------------------------------------------------------------------------|--------------------------------------------------------------|-------------------|------------|-------------|
-| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Solution](./0217-Contains-Duplicate/containsDuplicate.java) | Array's & Hashing | Easy       | 11/25/2020  |
- | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)           | [Solution](./0242-Valid-Anagram/validAnagram.java)           | Array's & Hashing | Easy       | 11/25/2020  |
-
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Solution](./0217-Contains-Duplicate/containsDuplicate.java) | Array's & Hashing | Easy       | 11/25/2023  |
+ | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)           | [Solution](./0242-Valid-Anagram/validAnagram.java)           | Array's & Hashing | Easy       | 11/25/2023  |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                         | [Solution](./0001-Two-Sum/twoSum.java)                       | Array's & Hashing | Easy       | 11/25/2023  |
