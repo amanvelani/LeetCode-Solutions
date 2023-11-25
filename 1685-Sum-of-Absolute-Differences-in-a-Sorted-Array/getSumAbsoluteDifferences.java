@@ -21,22 +21,29 @@ public class getSumAbsoluteDifferences {
 //        System.out.println(Arrays.toString(res2));
     }
 
+    //Time Complexity : O(n)
+    //Space Complexity : O(n)
     private static int[] twoPointer(int[] nums){
+        // Store the total sum of the array
         int totalSum = 0;
         int n = nums.length;
         for(int num : nums){
             totalSum += num;
         }
+        // Initialize the preSum and currentSum
         int preSum = 0;
-        int currentSum = totalSum;
+        int suffixSum = totalSum;
 
         int[] res = new int[n];
 
+        // Iterate over the array
+        // Calculate the absolute difference sum by considering the preSum and suffixSum
+        // Remove the current element from suffixSum and add it to preSum
         for(int i = 0; i < n; i++){
             int curr = nums[i];
-            currentSum -= curr;
+            suffixSum -= curr;
 
-            res[i] = curr * i - preSum + currentSum - curr * (n - i - 1);
+            res[i] = curr * i - preSum + suffixSum - curr * (n - i - 1);
 
             preSum += curr;
         }
