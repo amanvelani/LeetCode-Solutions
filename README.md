@@ -10,8 +10,8 @@ This repository contains my solutions to LeetCode problems. I have solved these 
 | 11/24/2023 | [1561. Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)                     | [Solution](./1561-Maximum-Number-of-Coins-You-Can-Get/maxCoinsYouCanGet.java)                   |
 
 ## Blind 75:
-| Problem Link | Solution |
-|--------------|----------|
-|              |          |
-
+| Problem Link                                                                             | Solution                                                     | Topic             | Difficulty | Date Solved |  
+|------------------------------------------------------------------------------------------|--------------------------------------------------------------|-------------------|------------|-------------|
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Solution](./0217-Contains-Duplicate/containsDuplicate.java) | Array's & Hashing | Easy       | 11/25/2020  |
+ | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)           | [Solution](./0242-Valid-Anagram/validAnagram.java)           | Array's & Hashing | Easy       | 11/25/2020  |
 
