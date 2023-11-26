@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems. I have solved these 
 ## Blind 75:
 | Problem Link                                                                                                 | Solution                                                                | Topic             | Difficulty | Date Solved |  
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------|------------|-------------|
+| [15. 3Sum](https://leetcode.com/problems/3sum/description/)                                                  | [Solution](./0015-3Sum/threeSum.java)                                   | Two Pointer       | Medium     | 11/25/2023  |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                         | [Solution](./0125-Valid-Palindrome/validPalindrome.java)                | Two Pointer       | Easy       | 11/25/2023  |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](./0238-Product-of-Array-Except-Self/productExceptSelf.java)  | Array's & Hashing | Medium     | 11/25/2023  |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                              | [Solution](./0049-Group-Anagrams/groupAnagrams.java)                    | Array's & Hashing | Medium     | 11/25/2023  |
