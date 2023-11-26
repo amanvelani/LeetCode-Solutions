@@ -6,6 +6,7 @@ This repository contains my solutions to LeetCode problems. I have solved these 
 ## Leetcode Daily Challenges:
 | Date       | Problem Link                                                                                                                        | Solution                                                                                        |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| 11/26/2023 | [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)                 | [Solution](./1727-Largest-Submatrix-With-Rearrangements/LargestSubmatrix.java)                  |
 | 11/25/2023 | [1685. Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [Solution](./1685-Sum-of-Absolute-Differences-in-a-Sorted-Array/getSumAbsoluteDifferences.java) |
 | 11/24/2023 | [1561. Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)                     | [Solution](./1561-Maximum-Number-of-Coins-You-Can-Get/maxCoinsYouCanGet.java)                   |
 
