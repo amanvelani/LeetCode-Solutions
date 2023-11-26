@@ -19,7 +19,7 @@ class LargestSubmatrix {
     }
 
     private static int largestSubMatrix(int[][] matrix){
-        int m = matrix.length
+        int m = matrix.length;
         int n = matrix[0].length;
         int ans = 0;
         // We will iterate over the matrix and for each element we will check if the current element is 1. If the current element is 1, we will add the value of the element above it to the current element.
