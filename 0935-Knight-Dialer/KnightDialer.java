@@ -20,11 +20,14 @@ class KnightDialer{
             0
 
 */
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 class Solution{
     int n;
     //int[][] dp;
     Map<String, Integer> dp;
     int MOD = (int) 1e9 + 7;
+    // Possible jumps from each square 0,1,2,3,4,5,6,7,8,9
     int[][] possibleJumps = new int[][]{
             {4,6},
             {6,8},
@@ -37,6 +40,10 @@ class Solution{
             {1,3},
             {4,2}
     };
+
+    /*
+        Iterate through each square and add the number of possible paths from each square to the result and decrease the number of remaining squares by 1.
+    */
     public int knightDialer(int n){
         this.n = n;
         // dp = new int[n+1][10];
@@ -50,6 +57,13 @@ class Solution{
         return result;
     }
 
+    /*
+        Helper function to calculate the number of possible paths from each square.
+        - If the remaining squares is 0, then we have reached the end of the path, and we return 1.
+        - If the dp array already contains the number of possible paths from the current square, then we return the value.
+        - Otherwise, we iterate through each possible jump from the current square and add the number of possible paths from each jump to the result.
+        - We store the result in the dp array and return the result.
+    */
     private int helper(int remainingSquare, int currentSquare){
         if(remainingSquare == 0) return 1;
         String key = remainingSquare + "," + currentSquare;
