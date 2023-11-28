@@ -6,10 +6,12 @@ public class waysToDivide{
         String corridor_1 = "SSPPSPS";
         String corridor_2 = "PPSPSP";
         String corridor_3 = "S";
+        String corridor_4 = "SSPPPPSPS";
         Solution s = new Solution();
         System.out.println("Test 1: " + (s.numberOfWays(corridor_1) == 3));
         System.out.println("Test 2: " + (s.numberOfWays(corridor_2) == 1));
         System.out.println("Test 3: " + (s.numberOfWays(corridor_3) == 0));
+        System.out.println("Test 4: " + (s.numberOfWays(corridor_4) == 5));
     }
 }
 // Time Complexity : O(n)
