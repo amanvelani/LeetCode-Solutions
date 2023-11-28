@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package src.solutions.Blind75.Longest_Consecutive_Sequence;
+
 import java.util.HashSet;
 import java.util.Set;
 

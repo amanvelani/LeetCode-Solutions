@@ -1,3 +1,5 @@
+package src.solutions.Blind75.Two_Sum;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;

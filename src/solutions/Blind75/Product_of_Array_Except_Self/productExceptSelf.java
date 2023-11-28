@@ -1,3 +1,5 @@
+package src.solutions.Blind75.Product_of_Array_Except_Self;
+
 import java.util.Arrays;
 
 class productExceptSelf{

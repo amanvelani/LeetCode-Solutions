@@ -1,3 +1,5 @@
+package src.solutions.Blind75.Valid_Palindrome;
+
 class validPalindrome{
     public static void main(String[] args){
         String test1 = "A man, a plan, a canal: Panama";

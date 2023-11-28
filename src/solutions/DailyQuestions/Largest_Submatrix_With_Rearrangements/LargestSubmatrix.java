@@ -1,3 +1,5 @@
+package src.solutions.DailyQuestions.Largest_Submatrix_With_Rearrangements;
+
 import java.util.Arrays;
 
 class LargestSubmatrix {

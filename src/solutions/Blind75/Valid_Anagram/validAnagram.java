@@ -1,4 +1,4 @@
-// Problem Link: https://leetcode.com/problems/valid-anagram/
+package src.solutions.Blind75.Valid_Anagram;// Problem Link: https://leetcode.com/problems/valid-anagram/
 import java.util.Arrays;
 
 class validAnagram{

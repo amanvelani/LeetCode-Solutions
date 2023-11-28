@@ -1,4 +1,4 @@
-// Problem Link: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+package src.solutions.DailyQuestions.Maximum_Number_of_Coins_You_Can_Get;// Problem Link: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 
 
 public class maxCoinsYouCanGet {

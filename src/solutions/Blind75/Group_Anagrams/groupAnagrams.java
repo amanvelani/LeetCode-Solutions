@@ -1,4 +1,4 @@
-// Problem Link: https://leetcode.com/problems/group-anagrams/
+package src.solutions.Blind75.Group_Anagrams;// Problem Link: https://leetcode.com/problems/group-anagrams/
 import java.util.*;
 
 class groupAnagrams{

@@ -1,4 +1,4 @@
-// Problem Link: https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
+package src.solutions.DailyQuestions.Sum_of_Absolute_Differences_in_a_Sorted_Array;// Problem Link: https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
 
 import java.util.Arrays;
 

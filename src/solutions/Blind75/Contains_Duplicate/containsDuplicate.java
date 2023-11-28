@@ -1,4 +1,4 @@
-// Problem Link: https://leetcode.com/problems/contains-duplicate/
+package src.solutions.Blind75.Contains_Duplicate;// Problem Link: https://leetcode.com/problems/contains-duplicate/
 import java.util.*;
 
 class containsDuplicate{

@@ -1,3 +1,5 @@
+package src.solutions.DailyQuestions.KnightDialer;
+
 import java.util.HashMap;
 import java.util.Map;
 
