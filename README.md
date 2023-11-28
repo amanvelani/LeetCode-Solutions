@@ -13,7 +13,7 @@ This repository contains my solutions to LeetCode problems. I have solved these 
 | 11/24/2023 | [1561. Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)                     | [Solution](./src/solutions/DailyQuestions/Maximum_Number_of_Coins_You_Can_Get/maxCoinsYouCanGet.java)                   |
 
 ## Blind 75:
-| Problem Link                                                                                                 | src.solutions.DailyQuestions.KnightDialer.Solution                                       | Topic             | Difficulty | Date Solved |  
+| Problem Link                                                                                                 | Solution Path                                                                            | Topic             | Difficulty | Date Solved |  
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------|------------|-------------|
 | [15. 3Sum](https://leetcode.com/problems/3sum/description/)                                                  | [Solution](./src/solutions/Blind75/threeSum/threeSum.java)                               | Two Pointer       | Medium     | 11/25/2023  |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                         | [Solution](./src/solutions/Blind75/Valid_Palindrome/validPalindrome.java)                | Two Pointer       | Easy       | 11/25/2023  |
